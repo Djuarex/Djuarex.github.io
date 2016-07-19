@@ -1,0 +1,36 @@
+h1 {
+	font-size: 130px;
+	text-align: center;
+	color: orange;
+	margin: 15;
+}
+
+.kitty {
+	display: block;
+	margin: auto;
+	width: 71%;
+
+}
+
+.Cat {
+	display: block;
+	margin: auto;
+	width: 31%;
+}
+
+.col-md-6{
+	border-style: solid;
+	border-width: 5px;
+}
+
+.btn1{
+	font-size: 70px;
+}
+
+.btn2{
+	font-size:70px;
+}
+
+.btn3{
+	font-size:70px;
+}
