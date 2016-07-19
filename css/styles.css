@@ -1,0 +1,42 @@
+h4 {
+	color: #763377;
+	font-size: 300%;
+	text-align: center;
+}
+
+
+body{
+	background: url(http://japanlover.me/goodies/kawaii/05-bg/tiled/character-tiles_0003_Layer-2.png);
+}
+
+li{
+	color: #7c5599;
+	font-size: 250%;
+	text-align: justify;
+}
+
+.bot {
+    display: block;
+    height: 50%;
+    position: relative;
+    left: 50px;
+
+}
+
+.dance {
+	font-size: 50px;
+	color: #7c5599;
+	position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.racoon {
+	display: block;
+	height: 50%;
+	position: relative;
+	left: 500px;
+
+}
+
+
