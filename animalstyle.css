@@ -1,8 +1,12 @@
+#background {
+	background-color: #EFF9F0;
+}
 h1 {
 	font-size: 130px;
 	text-align: center;
 	color: orange;
 	margin: 15;
+	margin-top: 0;
 }
 
 .kitty {
@@ -21,6 +25,7 @@ h1 {
 .col-md-6{
 	border-style: solid;
 	border-width: 5px;
+	border-color: orange;
 }
 
 .btn1{
@@ -33,4 +38,14 @@ h1 {
 
 .btn3{
 	font-size:70px;
+}
+.donate {
+	text-align: center;
+	font-size: 45px;
+	margin: 0;
+
+}
+.links {
+	text-align: center;
+	font-size: 40px;
 }
