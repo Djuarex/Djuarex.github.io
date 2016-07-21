@@ -13,8 +13,25 @@ li{
 	color: #7c5599;
 	font-size: 250%;
 	text-align: justify;
+	background-color: #ccffeb;
+	position: relative;
+	height: 20%;
+	width: 40%;
+	left: 10%;
+	top: 20%;
+
 }
 
+p{
+	color: #2929a3;
+	font-size: 200%;
+	background-color: #ccffeb;
+	position: relative;
+	height: 20%;
+	width: 40%;
+	left: 10%;
+	top: 20%;
+}
 .bot {
     display: block;
     height: 50%;
@@ -35,8 +52,15 @@ li{
 	display: block;
 	height: 50%;
 	position: relative;
-	left: 500px;
+	left: 20px;
 
 }
 
+h2{
+	color: #763377;
+	font-size: 300%;
+	text-align: center;
+}
+
+ 
 
